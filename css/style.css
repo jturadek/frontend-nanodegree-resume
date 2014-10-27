@@ -95,6 +95,14 @@ a {
   display: none;
 }
 
+#workDesc,
+#projDesc {
+  list-style-type: disc;
+  font-size: 14px;
+  line-height: 16px;
+  margin-left: 20px;
+}
+
 .orange {
   background-color: #F5AE23;
 }
